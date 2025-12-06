@@ -1,5 +1,4 @@
-# experiment-data-platform-web-finance
-Unified experimentation data platform with synthetic web + finance data, SQL pipeline, and frequentist/Bayesian analysis code.
+
 # Experimentation Data Platform – Web + Finance
 
 This repository mirrors a real project where I designed a **unified experimentation data pipeline** that connects web behavior with finance outcomes for a B2B SaaS product.
