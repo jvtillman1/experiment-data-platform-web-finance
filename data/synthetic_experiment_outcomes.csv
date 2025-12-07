@@ -1,0 +1,21 @@
+user_id,experiment_name,variant,first_exposure_date,region,device_type,package_group,list_size_group,is_eligible_visitor,is_activated,is_converted,new_booking_flag,nb_mrr,total_revenue,contamination_flag,duplication_rank
+1,homepage_cta_test,control,2025-01-05,NA,mobile,Essential,Small,1,0,0,0,0,0,Not Contaminated,1
+2,homepage_cta_test,control,2025-01-03,APAC,mobile,Essential,Small,1,1,0,0,0,0,Contaminated,2
+3,homepage_cta_test,control,2025-01-19,APAC,mobile,Essential,Medium,1,1,0,0,0,0,Not Contaminated,1
+4,homepage_cta_test,control,2025-01-05,APAC,mobile,Standard,Medium,1,1,0,0,0,0,Not Contaminated,1
+5,homepage_cta_test,treatment,2025-01-09,NA,mobile,Standard,Large,1,0,0,0,0,0,Not Contaminated,1
+6,homepage_cta_test,control,2025-01-27,EU,desktop,Premium,Medium,1,0,0,0,0,0,Not Contaminated,1
+7,homepage_cta_test,treatment,2025-01-02,APAC,desktop,Premium,Small,1,0,0,0,0,0,Not Contaminated,1
+8,homepage_cta_test,control,2025-01-15,NA,desktop,Standard,Medium,1,0,0,0,0,0,Not Contaminated,1
+9,homepage_cta_test,treatment,2025-01-23,EU,desktop,Premium,Medium,1,0,0,0,0,0,Not Contaminated,1
+10,homepage_cta_test,control,2025-01-13,APAC,desktop,Essential,Medium,1,1,0,0,0,0,Not Contaminated,1
+11,homepage_cta_test,control,2025-01-16,APAC,mobile,Essential,Large,1,1,0,0,0,0,Not Contaminated,1
+12,homepage_cta_test,treatment,2025-01-18,NA,desktop,Premium,Large,1,1,0,0,0,0,Not Contaminated,1
+13,homepage_cta_test,treatment,2025-01-16,EU,desktop,Essential,Large,1,1,1,1,28,28,Not Contaminated,1
+14,homepage_cta_test,control,2025-01-13,APAC,mobile,Premium,Small,1,1,0,0,0,0,Not Contaminated,1
+15,homepage_cta_test,treatment,2025-01-21,NA,mobile,Standard,Medium,1,1,1,1,65,65,Not Contaminated,1
+16,homepage_cta_test,control,2025-01-11,EU,desktop,Standard,Medium,1,1,0,0,0,0,Not Contaminated,1
+17,homepage_cta_test,treatment,2025-01-08,NA,desktop,Essential,Small,1,1,1,1,32,32,Not Contaminated,1
+18,homepage_cta_test,treatment,2025-01-24,APAC,mobile,Premium,Large,1,1,0,0,0,0,Contaminated,2
+19,homepage_cta_test,control,2025-01-20,EU,mobile,Essential,Medium,1,1,1,1,30,30,Not Contaminated,1
+20,homepage_cta_test,treatment,2025-01-27,NA,desktop,Standard,Large,1,0,0,0,0,0,Not Contaminated,1
