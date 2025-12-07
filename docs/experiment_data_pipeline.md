@@ -65,6 +65,8 @@ From the base table we derive a curated **outcomes table** for each experiment, 
 
 ```text
 homepage_cta_test_outcomes
+```
+
 This table:
 
 - Filters to **eligible visitors** (based on consistent rules)
