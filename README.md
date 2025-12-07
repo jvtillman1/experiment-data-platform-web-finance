@@ -49,7 +49,7 @@ To do this, I:
 1. Clone the repository and install Python dependencies (pandas, numpy, scipy, matplotlib, etc.).
 2. Inspect `data/synthetic_experiment_outcomes.csv` to see the experiment outcome schema.
 3. Review `sql/build_experiment_tables.sql` to understand how base and aggregated tables are built.
-4. Run `python/frequentist_analysis.py` or `python/bayesian_analysis.py` on the synthetic dataset.
+4. Run `python/experiment_analysiss.py` or `python/bayesian_experiment_analysis.py` on the synthetic dataset.
 5. Open `notebooks/experiment_analysis_template.ipynb` for an end-to-end walkthrough.
 
 ---
